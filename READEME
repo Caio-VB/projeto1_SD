@@ -1,0 +1,15 @@
+Depois de instalar o JDK e Gradle
+
+Extraia o projeto do zip
+
+No terminal, navegue até a pasta do projeto e execute:
+
+1. gradle clean build (para compilar)
+2. gradle runServer (para executar o servidor)
+
+Abra outros terminais para os cliente e execute:
+
+1. gradle runClient
+2. insira um IP local
+3. insira uma porta diferente para cada
+4. use os comandos do menu para testar o sistema
